@@ -1,4 +1,4 @@
-# SuperNFT.gg
+# [SuperNFT.gg](https://supernft.gg)
 
 This is a wiki defining what Super NFTs are, we want more people to describe their protocols as Super NFTs.
 We believe Super NFTs are more disgestible to the layman, as it simplified our vision at [BEBverse](https://beb.xyz).
